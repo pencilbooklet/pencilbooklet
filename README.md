@@ -26,9 +26,8 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+
+## 🗂️ Highlight Projects
 
 
 ## 🔧 Technologies & Tools
