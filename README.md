@@ -26,10 +26,6 @@ me.say_hi()
 
 ## 📝 Blogs
 
-
-## 🗂️ Highlight Projects
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -37,3 +33,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=6aa6f8)
+
+
+## 🗂️ Highlight Projects
+
